@@ -17,8 +17,8 @@ Course project analyzing the **Hotel Booking Demand Dataset** from [Kaggle](http
 
 ## Project Roadmap
 - [x] Data Cleaning & Preprocessing (Midterm)
-- [ ] Data Exploration & Visualization
-- [ ] Feature Engineering & Selection
+- [x] Data Exploration & Visualization
+- [x] Feature Engineering & Selection
 - [ ] Predictive Modeling & Evaluation (Final)
 
 ## Tools & Libraries
