@@ -19,7 +19,7 @@ Course project analyzing the **Hotel Booking Demand Dataset** from [Kaggle](http
 - [x] Data Cleaning & Preprocessing (Midterm)
 - [x] Data Exploration & Visualization
 - [x] Feature Engineering & Selection
-- [ ] Predictive Modeling & Evaluation (Final)
+- [x] Predictive Modeling & Evaluation (Final)
 
 ## Tools & Libraries
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Colab
